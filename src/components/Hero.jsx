@@ -14,7 +14,7 @@ function Hero() {
         </h1>
 
         <p className="description">
-          Hi there 👋 I'm Nitesh! I'm a passionate developer
+          Hi there 👋 I'm Nitesh! I'm a Python Full Stack developer
           and lifelong learner who enjoys building modern web
           applications, solving real-world problems, and
           exploring new technologies.
