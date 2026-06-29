@@ -21,7 +21,7 @@ function Hero() {
         </p>
 
         
-      </div>
+      </div>   
 
       <div className="hero-right">
         <img src={profile} alt="Nitesh" />
