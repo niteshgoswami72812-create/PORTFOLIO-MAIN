@@ -14,10 +14,7 @@ function Hero() {
         </h1>
 
         <p className="description">
-          Hi there 👋 I'm Nitesh! I'm a Python Full Stack developer
-          and lifelong learner who enjoys building modern web
-          applications, solving real-world problems, and
-          exploring new technologies.
+          Hi there 👋 I'm Nitesh! <br /> <br />Python Full Stack Developer specializing in Django, Django REST Framework, React.js, JavaScript, and MySQL. Passionate about building scalable web applications and solving real-world problems.
         </p>
 
         
