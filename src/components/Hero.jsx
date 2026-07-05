@@ -14,7 +14,9 @@ function Hero() {
         </h1>
 
         <p className="description">
-          Python Full Stack Developer specializing in Django, Django REST Framework, React.js, JavaScript, and MySQL. Passionate about building scalable web applications and solving real-world problems.
+          <p style={{ fontWeight: 700, color: "#111827" }}>
+  Python Full Stack Developer
+</p> specializing in Django, Django REST Framework, React.js, JavaScript, and MySQL. Passionate about building scalable web applications and solving real-world problems.
         </p>
 
         
